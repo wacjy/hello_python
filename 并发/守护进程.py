@@ -37,4 +37,3 @@ if __name__ ==  '__main__':
 
     q.join()
     print("主进程继续执行")
-    main first
